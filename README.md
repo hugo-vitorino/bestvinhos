@@ -12,3 +12,8 @@ Descrição: O BestVinhos é uma plataforma abrangente dedicada a entusiastas de
 ![Recomendações](./recomendados.jpeg)
 ![Info](./info.jpeg)
 ![Carrinho](./carrinho.jpeg)
+
+## Jira
+![backlog](./backlog.jpeg)
+![Historia de usuário](./cadastro_usuario.jpeg)
+![Subtarefas](./subtarefas.jpeg)
