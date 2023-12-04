@@ -5,6 +5,9 @@ Descrição: O BestVinhos é uma plataforma abrangente dedicada a entusiastas de
 
 
 ## Diagrama de casos de uso
-
+![Casos](./casos.jpeg)
 
 ## Fotos do sistema
+![Recomendações](./recomendados.jpeg)
+![Info](./info.jpeg)
+![Carrinho](./carrinho.jpeg)
